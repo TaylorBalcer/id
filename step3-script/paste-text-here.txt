@@ -1,13 +1,14 @@
 This will be my tagline:
-
+Passionate & Creative Web Designer with an eye for style.
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
-
+3.	Taylor Balcer is pursuing an Associates in Science Degree in Multimedia Technologies with a concentration in Web Development & Design at Pittsburgh Technical College. Taylors main strength is design. Throughout Taylor’s life she has enjoyed making art in many different forms and mediums. She taught herself HTML and graphic design in 2005 and continued learning about similar subjects throughout her intermediate and high school years. She graduated high school in 2012 and spent 8 years in the service industry before deciding to rekindle her passion and further her knowledge of web design and development at PTC. Taylor was selected for a work-study with the Digital Marketing department on the Pittsburgh Technical College’s many websites. Through this work she has found she enjoys digital marketing, front-end development, UI/UX, as well as most aspects of web design. The goal of this portfolio is to showcase all of Taylor’s creativity, talents and passion for web design. 
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site: Jamie’s Blog Wordpress 
+Talent Showcased: Design
+Objective: Inform about the uses and practices of foraging and food sustainability. 
+Target Audience: Inform about the uses and practices of foraging and food sustainability. 
 Highlights: 
-1)
-2)
-3)
+•	Imagery showing common plants and mushrooms, common store bought fruits, vegetables, and herbs for regrowing that includes a purple and green and gold color palette (subject to change) to represent some colors of nature. 
+•	Mushroom and floral images are repeated as visual style elements to provide consistency with the theme of the information. 
+•	The page structure has a navigation on top, a main column and one side column to present a variety of essential information and ways to access them. 
+
